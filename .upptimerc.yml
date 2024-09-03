@@ -5,6 +5,16 @@ repo: upptime # The name of this repository
 sites:
   - name: Git
     url: http://45.147.97.90:3000
+  - name: Plex
+    url: http://45.147.97.90:32400
+  - name: Sonar
+    url: http://45.147.97.90:8989
+  - name: Radarr
+    url: http://45.147.97.90:7878
+  - name: Jackett
+    url: http://45.147.97.90:9117
+  - name: QBTorrent
+    url: http://45.147.97.90:8090
   - name: Netdata
     url: http://45.147.97.90:19999
   - name: Minecraft 
