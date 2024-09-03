@@ -4,12 +4,16 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Git
-    url: http://45.147.97.90:3000/
+    url: http://45.147.97.90:3000
   - name: Netdata
     url: http://45.147.97.90:19999
-  - name: Minecraft
+  - name: Minecraft 
     url: 45.147.97.90
     port: 25565
+    check: "tcp-ping"
+  - name: Minecraft Cousins
+    url: 45.147.97.90
+    port: 25566
     check: "tcp-ping"
 
 status-website:
