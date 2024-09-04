@@ -4,9 +4,9 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Git
-    url: git.tibiscuit.ch
+    url: https://git.tibiscuit.ch/
   - name: Plex
-    url: plex.tibscuit.ch/web/index.html
+    url: https://plex.tibiscuit.ch/web/index.html
   - name: Sonar
     url: sonar.tibiscuit.ch
   - name: Radarr
@@ -14,7 +14,7 @@ sites:
   - name: Jackett
     url: jackett.tibiscuit.ch
   - name: QBTorrent
-    url: qbt.tibiscuit.ch
+    url: https://qbt.tibiscuit.ch/
   - name: Netdata
     url: netdata.tibiscuit.ch
   - name: Minecraft 
