@@ -6,7 +6,7 @@ sites:
   - name: Git
     url: git.tibiscuit.ch
   - name: Plex
-    url: plex.tibscuit.ch
+    url: plex.tibscuit.ch/web/index.html
   - name: Sonar
     url: sonar.tibiscuit.ch
   - name: Radarr
@@ -29,7 +29,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: appellet.github.io
+  cname: status.tibiscuit.ch
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
