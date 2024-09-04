@@ -4,19 +4,19 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Git
-    url: http://45.147.97.90:3000
+    url: git.tibiscuit.ch
   - name: Plex
-    url: http://45.147.97.90:32400
+    url: plex.tibscuit.ch
   - name: Sonar
-    url: http://45.147.97.90:8989
+    url: sonar.tibiscuit.ch
   - name: Radarr
-    url: http://45.147.97.90:7878
+    url: radarr.tibiscuit.ch
   - name: Jackett
-    url: http://45.147.97.90:9117
+    url: jackett.tibiscuit.ch
   - name: QBTorrent
-    url: http://45.147.97.90:8090
+    url: qbt.tibiscuit.ch
   - name: Netdata
-    url: http://45.147.97.90:19999
+    url: netdata.tibiscuit.ch
   - name: Minecraft 
     url: 45.147.97.90
     port: 25565
