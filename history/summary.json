@@ -148,17 +148,17 @@
     "url": "45.147.97.90",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-cousins",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 128,
-    "timeDay": 92,
-    "timeWeek": 120,
-    "timeMonth": 128,
-    "timeYear": 128,
+    "time": 126,
+    "timeDay": 94,
+    "timeWeek": 117,
+    "timeMonth": 126,
+    "timeYear": 126,
     "dailyMinutesDown": {}
   }
 ]
