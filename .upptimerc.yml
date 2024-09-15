@@ -10,7 +10,7 @@ sites:
   - name: Sonar
     url: sonar.tibiscuit.ch
   - name: Radarr
-    url: radarr.tibiscuit.ch
+    url: https://radarr.tibiscuit.ch
   - name: Jackett
     url: jackett.tibiscuit.ch
   - name: QBTorrent
