@@ -4,18 +4,20 @@
     "url": "https://git.tibiscuit.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/git.tibiscuit.ch.ico",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 926,
-    "timeDay": 1022,
-    "timeWeek": 818,
-    "timeMonth": 926,
-    "timeYear": 926,
-    "dailyMinutesDown": {}
+    "time": 920,
+    "timeDay": 921,
+    "timeWeek": 806,
+    "timeMonth": 920,
+    "timeYear": 920,
+    "dailyMinutesDown": {
+      "2024-09-30": 0
+    }
   },
   {
     "name": "Plex",
