@@ -31,11 +31,11 @@ sites:
 
 workflowSchedule:
   graphs: "0 0 * * *"
-  responseTime: "5 0 * * *"
-  staticSite: "5 0 * * *"
+  responseTime: "*/5 0 * * *"
+  staticSite: "*/5 0 * * *"
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
-  updates: "5  * * *"
+  updates: "*/5  * * *"
   uptime: "*/5 * * * *"
 
 status-website:
