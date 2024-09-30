@@ -7,20 +7,22 @@ sites:
     url: https://git.tibiscuit.ch/
   - name: Plex
     url: https://plex.tibiscuit.ch/web/index.html
-  - name: Sonar
-    url: sonar.tibiscuit.ch
-  - name: Radarr
-    url: https://radarr.tibiscuit.ch
-  - name: Jackett
-    url: jackett.tibiscuit.ch
+  - name: TimeTagger
+    url: https://tagger.tibiscuit.ch/
+  #- name: Sonar
+  #  url: sonar.tibiscuit.ch
+  #- name: Radarr
+  #  url: https://radarr.tibiscuit.ch
+  #- name: Jackett
+  #  url: jackett.tibiscuit.ch
   - name: QBTorrent
     url: https://qbt.tibiscuit.ch/
-  - name: Netdata
-    url: netdata.tibiscuit.ch
-  - name: Minecraft 
-    url: 45.147.97.90
-    port: 25565
-    check: "tcp-ping"
+  #- name: Netdata
+  #  url: netdata.tibiscuit.ch
+  #- name: Minecraft 
+  #  url: 45.147.97.90
+  #  port: 25565
+  #  check: "tcp-ping"
   - name: Minecraft Cousins
     url: 45.147.97.90
     port: 25566
