@@ -31,6 +31,9 @@ sites:
   - name: Raspberry Pi5
     url: 45.147.97.90
     port: 2222
+    check: "tcp-ping"
+    delay: 2000
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
