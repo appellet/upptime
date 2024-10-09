@@ -28,6 +28,10 @@ sites:
     port: 25566
     check: "tcp-ping" 
     delay: 2000
+  - name: Minecraft Raspberry
+    port: 25565
+    check: "tcp-ping"
+    delay: 2000
   - name: Raspberry Pi5
     url: 45.147.97.90
     port: 2222
