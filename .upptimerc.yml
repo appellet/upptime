@@ -20,15 +20,16 @@ sites:
   #- name: Netdata
   #  url: netdata.tibiscuit.ch
   #- name: Minecraft 
-  #  url: 45.147.97.90
+  #  url: mc.tibiscuit.ch
   #  port: 25565
   #  check: "tcp-ping"
   - name: Minecraft Cousins
-    url: 45.147.97.90
+    url: cousins.tibiscuit.ch
     port: 25566
     check: "tcp-ping" 
     delay: 2000
   - name: Minecraft Raspberry
+    url: mc.tibiscuit.ch
     port: 25565
     check: "tcp-ping"
     delay: 2000
