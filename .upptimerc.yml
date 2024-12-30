@@ -22,8 +22,8 @@ sites:
   - name: OwnCloud
     url: https://cloud.tibiscuit.ch
   - name: Immich
-    url: http://45.147.97.90:2283
-  #- name: Netdata
+    url: https://img.tibiscuit.ch
+  # name: Netdata
   #  url: netdata.tibiscuit.ch
   #- name: Minecraft 
   #  url: mc.tibiscuit.ch
