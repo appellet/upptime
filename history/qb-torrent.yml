@@ -1,7 +1,7 @@
 url: https://qbt.tibiscuit.ch/
-status: up
-code: 200
-responseTime: 350
-lastUpdated: 2025-03-09T23:10:31.649Z
+status: down
+code: 502
+responseTime: 515
+lastUpdated: 2025-03-10T23:12:49.144Z
 startTime: 2024-09-03T18:17:39.924Z
 generator: Upptime <https://github.com/upptime/upptime>
