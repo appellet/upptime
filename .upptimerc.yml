@@ -17,33 +17,33 @@ sites:
   #  url: jackett.tibiscuit.ch
   - name: QBTorrent
     url: https://qbt.tibiscuit.ch/
-  - name: Netdata
-    url: https://netdata.tibiscuit.ch
-  - name: OwnCloud
-    url: https://cloud.tibiscuit.ch
-  - name: Immich
-    url: https://img.tibiscuit.ch
+  #- name: Netdata
+  #  url: https://netdata.tibiscuit.ch
+  #- name: OwnCloud
+  #  url: https://cloud.tibiscuit.ch
+  #- name: Immich
+  #  url: https://img.tibiscuit.ch
   # name: Netdata
   #  url: netdata.tibiscuit.ch
   #- name: Minecraft 
   #  url: mc.tibiscuit.ch
   #  port: 25565
   #  check: "tcp-ping"
-  - name: Minecraft Cousins
-    url: cousins.tibiscuit.ch
-    port: 25566
-    check: "tcp-ping" 
-    delay: 2000
-  - name: Minecraft Raspberry
-    url: mc.tibiscuit.ch
-    port: 25565
-    check: "tcp-ping"
-    delay: 2000
-  - name: Raspberry Pi5
-    url: 45.147.97.90
-    port: 2222
-    check: "tcp-ping"
-    delay: 2000
+  # - name: Minecraft Cousins
+  #  url: cousins.tibiscuit.ch
+  #  port: 25566
+  #  check: "tcp-ping" 
+  #  delay: 2000
+  #- name: Minecraft Raspberry
+  #  url: mc.tibiscuit.ch
+  #  port: 25565
+  #  check: "tcp-ping"
+  #  delay: 2000
+  #- name: Raspberry Pi5
+  #  url: 45.147.97.90
+  #  port: 2222
+  #  check: "tcp-ping"
+  #  delay: 2000
     
 
 status-website:
