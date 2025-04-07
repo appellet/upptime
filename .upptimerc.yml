@@ -17,6 +17,8 @@ sites:
   #  url: jackett.tibiscuit.ch
   - name: QBTorrent
     url: https://qbt.tibiscuit.ch/
+  - name: Joplin
+    url: https://joplin.tibiscuit.ch
   #- name: Netdata
   #  url: https://netdata.tibiscuit.ch
   #- name: OwnCloud
