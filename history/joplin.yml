@@ -1,7 +1,7 @@
 url: https://joplin.tibiscuit.ch
-status: up
-code: 200
-responseTime: 774
-lastUpdated: 2025-04-08T09:33:50.649Z
+status: down
+code: 502
+responseTime: 468
+lastUpdated: 2025-04-08T09:45:55.544Z
 startTime: 2025-04-07T11:13:05.576Z
 generator: Upptime <https://github.com/upptime/upptime>
