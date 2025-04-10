@@ -41,11 +41,16 @@ sites:
   #  port: 25565
   #  check: "tcp-ping"
   #  delay: 2000
-  #- name: Raspberry Pi5
-  #  url: 45.147.97.90
-  #  port: 2222
-  #  check: "tcp-ping"
-  #  delay: 2000
+  - name: Server
+    url: 45.155.170.218
+    port: 2542
+    check: "tcp-ping"
+    delay: 2000
+  - name: Raspberry Pi5
+    url: 45.155.170.218
+    port: 2222
+    check: "tcp-ping"
+    delay: 2000
     
 
 status-website:
