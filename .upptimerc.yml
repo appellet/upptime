@@ -34,8 +34,7 @@ sites:
   - name: Minecraft Cousins
     url: cousins.tibiscuit.ch
     port: 57429
-    check: "tcp-ping" 
-    delay: 2000
+    check: "tcp-ping"
   #- name: Minecraft Raspberry
   #  url: mc.tibiscuit.ch
   #  port: 25565
