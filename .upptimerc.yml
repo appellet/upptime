@@ -13,6 +13,8 @@ sites:
     port: 2222
     check: "tcp-ping"
     delay: 2000
+  - name: NAS
+    url: https://nas.tibiscuit.ch
   - name: Git
     url: https://git.tibiscuit.ch/
   - name: Plex
