@@ -1,7 +1,7 @@
 url: https://vault.tibiscuit.ch
-status: up
-code: 200
-responseTime: 315
-lastUpdated: 2025-08-02T23:15:30.228Z
+status: down
+code: 502
+responseTime: 644
+lastUpdated: 2025-08-03T03:31:41.279Z
 startTime: 2025-04-13T20:42:50.917Z
 generator: Upptime <https://github.com/upptime/upptime>
