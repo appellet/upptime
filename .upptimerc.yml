@@ -17,8 +17,8 @@ sites:
     url: https://nas.tibiscuit.ch
   - name: Git
     url: https://git.tibiscuit.ch/
-  - name: Plex
-    url: https://plex.tibiscuit.ch/web/index.html
+  - name: Jellyfin
+    url: https://jellyfin.tibiscuit.ch/
   - name: TimeTagger
     url: https://tagger.tibiscuit.ch/
   #- name: Sonar
@@ -27,8 +27,8 @@ sites:
   #  url: https://radarr.tibiscuit.ch
   #- name: Jackett
   #  url: jackett.tibiscuit.ch
-  - name: QBTorrent
-    url: https://qbt.tibiscuit.ch/
+  #- name: QBTorrent
+  #  url: https://qbt.tibiscuit.ch/
   - name: Joplin
     url: https://joplin.tibiscuit.ch
   - name: Vaultwarden
