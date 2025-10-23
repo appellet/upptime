@@ -22,14 +22,14 @@ sites:
   - name: TimeTagger
     url: https://tagger.tibiscuit.ch/
   - name: Sonarr
-    url: sonarr.tibiscuit.ch
+    url: https://sonarr.tibiscuit.ch
   - name: Radarr
     url: https://radarr.tibiscuit.ch
   - name: Jackett
-    url: jackett.tibiscuit.ch
+    url: https://jackett.tibiscuit.ch
   - name: QBTorrent
     url: https://qbt.tibiscuit.ch/
-  - name: Jellyseer
+  - name: Jellyseerr
     url: https://jellyseerr.tibiscuit.ch/
   - name: Joplin
     url: https://joplin.tibiscuit.ch
