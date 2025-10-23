@@ -30,7 +30,7 @@ sites:
   - name: QBTorrent
     url: https://qbt.tibiscuit.ch/
   - name: Jellyseer
-    url: https://jellyseer.tibiscuit.ch/
+    url: https://jellyseerr.tibiscuit.ch/
   - name: Joplin
     url: https://joplin.tibiscuit.ch
   - name: Vaultwarden
