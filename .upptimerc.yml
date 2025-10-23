@@ -26,7 +26,7 @@ sites:
   - name: Radarr
     url: https://radarr.tibiscuit.ch
   - name: Jackett
-    url: https://jackett.tibiscuit.ch
+    url: https://jackett.tibiscuit.ch/UI/Dashboard
   - name: QBTorrent
     url: https://qbt.tibiscuit.ch/
   - name: Jellyseerr
