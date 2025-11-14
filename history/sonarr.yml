@@ -1,7 +1,7 @@
 url: https://sonarr.tibiscuit.ch
-status: down
-code: 530
-responseTime: 236
-lastUpdated: 2025-11-13T23:15:34.230Z
+status: up
+code: 200
+responseTime: 629
+lastUpdated: 2025-11-14T16:36:59.003Z
 startTime: 2025-10-23T20:37:25.855Z
 generator: Upptime <https://github.com/upptime/upptime>
