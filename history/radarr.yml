@@ -1,7 +1,7 @@
 url: https://radarr.tibiscuit.ch
-status: up
-code: 200
-responseTime: 631
-lastUpdated: 2025-12-06T23:13:56.580Z
+status: down
+code: 530
+responseTime: 248
+lastUpdated: 2025-12-07T02:26:53.218Z
 startTime: 2025-10-23T20:37:26.666Z
 generator: Upptime <https://github.com/upptime/upptime>
