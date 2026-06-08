@@ -1,7 +1,7 @@
 url: https://jellyfin.tibiscuit.ch/
-status: down
-code: 502
-responseTime: 514
-lastUpdated: 2026-06-08T04:56:39.433Z
+status: up
+code: 200
+responseTime: 940
+lastUpdated: 2026-06-08T13:49:32.012Z
 startTime: 2025-09-15T09:51:04.999Z
 generator: Upptime <https://github.com/upptime/upptime>
