@@ -19,16 +19,16 @@ sites:
     url: https://git.tibiscuit.ch/
   - name: Jellyfin
     url: https://jellyfin.tibiscuit.ch/
-  - name: TimeTagger
-    url: https://tagger.tibiscuit.ch/
-  - name: Sonarr
-    url: https://sonarr.tibiscuit.ch
-  - name: Radarr
-    url: https://radarr.tibiscuit.ch
-  - name: QBTorrent
-    url: https://qbt.tibiscuit.ch/
   - name: Jellyseerr
     url: https://jellyseerr.tibiscuit.ch/
+  - name: TimeTagger
+    url: https://tagger.tibiscuit.ch/
+  #- name: Sonarr
+  #  url: https://sonarr.tibiscuit.ch
+  #- name: Radarr
+  #  url: https://radarr.tibiscuit.ch
+  #- name: QBTorrent
+  #  url: https://qbt.tibiscuit.ch/
   - name: Joplin
     url: https://joplin.tibiscuit.ch
   - name: Vaultwarden
